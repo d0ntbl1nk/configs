@@ -13,5 +13,5 @@ set ruler
 set clipboard=unmapped
 set noswapfile
 set noerrorbells
-
+inoremap jj <ESC>
 highlight Comment ctermfg=green
